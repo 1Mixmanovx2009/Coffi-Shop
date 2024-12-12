@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-hero	{
+    background-image: url("./assets/images/Rectangle 12.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.h1 {
+    font-family: "Righteous", sans-serif;
+}
+
+.test {
+    font-family: "Inter", sans-serif;
+}
